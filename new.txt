@@ -2,4 +2,4 @@ Making changes into file
 
 Changes made in github GUI :)
 
-This line was added from new-branch
+This line was added from another-branch
